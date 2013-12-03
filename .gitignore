@@ -1,3 +1,6 @@
+*.java~
+*.class~
+*.in~
 *.in2
 *.out
 *.class
